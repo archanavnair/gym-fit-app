@@ -10,7 +10,7 @@ const Hero = (props) => {
       </div>
       
       <p className="text-sm md:text-base font-light">I hereby acknowledge that I may become 
-      <span className="text-blue-400 font-medium"> unbelievably thomasdelauer</span> 
+      <span className="text-blue-400 font-medium"> unbelievably erza scarlet</span> 
       and accept all risks of becoming the local <span className="text-blue-400">mass monrtosity</span>, afflicted with severe body 
       dismorphia, unable to fit through doors.</p>
       <Button func={() => {
