@@ -6,7 +6,7 @@ const Hero = (props) => {
     <div className='min-h-screen flex flex-col gap-10 items-center justify-center text-center max-w-[900px] w-full mx-auto p-4'>
       <div className='flex flex-col gap-4'>
         <p>IT'S TIIME TO GET</p>
-        <h1 className="uppercase font-semibold text-4xl sm:text-5xl md:text-6xl lg:text-7xl "> Thomas<span className="text-blue-400"> DeLauer</span></h1>
+        <h1 className="uppercase font-semibold text-4xl sm:text-5xl md:text-6xl lg:text-7xl "> Erza<span className="text-blue-400"> Scarlet</span></h1>
       </div>
       
       <p className="text-sm md:text-base font-light">I hereby acknowledge that I may become 
